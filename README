@@ -1,9 +1,7 @@
 Testing Javascript using Jasmine
 
-This is the first meeting of the Passionate Programmers Guild where we will discuss the how and the why you should test your javascript code
-and how the Jasmine BDD framework from Pivatol Labs can be useful in that effort.  The agenda of the meeting is as follows:
+This is the first meeting of the Passionate Programmers Guild where we will discuss the how and the why you should test your javascript code and how the Jasmine BDD framework from Pivatol Labs can be useful in that effort. The agenda of the meeting is as follows:
 
 Introductions 10Min - Tell us who you are and why you are here
 Presentation 20Min - Quick presentation on javascript with and without testing and a quick review of the tool chain
-Exercise - 30min - Here everyone will write code based on what they have learned.  This will be a time boxed exercise where the presenter
-                   is responsible for providing assistance and direction where required.
+Exercise - 30min - Here everyone will write code based on what they have learned. This will be a time boxed exercise where the presenter is responsible for providing assistance and direction where required.
