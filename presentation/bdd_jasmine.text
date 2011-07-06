@@ -1,0 +1,60 @@
+#BDD In Javascript
+<center><h3>Using Jasmine</h3></center>
+<center><h3>A Javascript BDD Framework</h3></center>
+
+<div style="position:absolute; bottom:0; left:20; width:100%;height:100px">
+    <div style="float:left;height:100%;width:50%;">
+        <span style="font-size:20px;">Michael Mann</span><br/>
+        Sr. Software Engineer<br/>
+        Red Rocket Solutions<br/>
+    </div>
+    <div style="float:right;height:100%;width:50%;">
+    Email: mmann2943@gmai.com<br/>
+    Blog: <a href="http://passionateprogrammersguild.com">http://passionateprogrammersguild.com</a><br/>
+    GitHub: <a href="https://github.com/passionateprogrammersguild">https://github.com/passionateprogrammersguild</a>
+    </div>
+</div>
+
+#What is BDD
+>No, its not German engineered stainless steel blades, but it is statements that describe interactions between components in your software
+
+<center><img src="../billy.jpg"/></center>
+
+#An Example
+<center><h3>To Ze Code</h3></center>
+<center><a href="../../js-without-bdd.js" title="Javascript written without BDD"><img src="../pickup.jpg"/></a></center>
+
+#Could this example have been written faster and better using BDD
+<center><img src="../ubetcha.jpg"/></center>
+
+#BDD to the rescue
+<center><img src="../rescue.jpg"/></center>
+
+#Jasmine Building Blocks
+<center><img src="../blocks.png"/></center>
+
+#An Example using BDD
+<center><a href="../../src/Playa.js" title="Javascript written with BDD"><img src="../southpark.jpg"/></a></center>
+
+#Exercise
+<center><img src="../midget.jpg"/></center>
+
+#Lets Go Bowling
+###Rules
+1. Highest score is 300
+2. Total of 10 frames
+3. Two bowling attempts in each frame
+4. A Spare is scored by adding 10 to the number of pins knocked down in the first bowl in the next frame
+5. A Strike is scored by adding 10 to the total number of pins knocked down in the next frame
+
+####Example Spare Scoring
+<img title="Example Spare" src="../spare.jpg"/>
+
+####Example Strike Scoring
+<img title="Example Strike" src="../strike.jpg"/>
+
+#References
+* [jasmine javascript framework](http://pivotal.github.com/jasmine/)
+* [prototypal inheritance](http://www.webreference.com/programming/javascript/prototypal_inheritance/)
+* [github accout for presentation](https://github.com/passionateprogrammersguild/testingJsWithJasmine)
+* [Passionate Programmers Guild](http://passionateprogrammersguild.wordpress.com/)
